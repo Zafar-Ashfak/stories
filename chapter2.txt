@@ -1,0 +1,7 @@
+                        Address
+
+Village: Chauhatta Chhipitola
+City: Hajipur 
+Dist: Vaishali
+State: Bihar,
+PIN: 844101
